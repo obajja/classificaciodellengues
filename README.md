@@ -36,5 +36,5 @@ _Aquest projecte ha estat desenvolupat per estudiants de segon curs del grau de 
 
 ## Llicència
 
-La totalitat del projecta està sota llicència MIT.
+La totalitat del projecte està sota llicència MIT.
 
