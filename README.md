@@ -25,10 +25,10 @@ _El programa calcula la distància ortogràfica i la distància lèxica entre do
 
 _Aquest projecte ha estat desenvolupat per estudiants de segon curs del grau de Matemàtiques de la Universitat Autònoma de Barcelona (UAB) per a la assignatura de Taller de Modelització. Els membres de l'equip són:_
 
-* **Anna Canals** - [villanuevand](https://github.com/villanuevand)
-* **Laura Casadesús** - [fulanitodetal](#fulanito-de-tal)
-* **David Olivar**  - [fulanitodetal](#fulanito-de-tal)
-* **Omar Bajjà**  - [fulanitodetal](#fulanito-de-tal)
+* **Anna Canals** - [1563553]
+* **Laura Casadesús** - [1565262]
+* **David Olivar**  - [1569322]
+* **Omar Bajjà**  - [1498039]
 
 ## Licencia 📄
 
