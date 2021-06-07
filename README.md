@@ -18,7 +18,7 @@ _i la llibreria time._
 
 ## El programa
 
-_El programa calcula la distància ortogràfica i la distància lèxica entre dos idiomes. Per fer-ho utilitza els següents algorismes:_
+_El programa calcula la distància ortogràfica i la distància fonètica entre dos idiomes. Per fer-ho utilitza els següents algorismes:_
 
 
 ![distancia_idiomes](https://user-images.githubusercontent.com/84815052/120990428-d3e9fa80-c780-11eb-825f-6c2f2dbc7983.png)
