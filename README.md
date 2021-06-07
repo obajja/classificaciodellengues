@@ -34,7 +34,7 @@ _Aquest projecte ha estat desenvolupat per estudiants de segon curs del grau de 
 * **David Olivar**  - [1569322]
 * **Omar Bajjà**  - [1498039]
 
-## Licencia 📄
+## Llicència
 
 La totalitat del projecta està sota llicència MIT.
 
