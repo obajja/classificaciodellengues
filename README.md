@@ -27,7 +27,7 @@ _El programa calcula la distància ortogràfica i la distància lèxica entre do
 
 ## Autors
 
-_Aquest projecte ha estat desenvolupat per estudiants de segon curs del grau de Matemàtiques de la Universitat Autònoma de Barcelona (UAB) per a la assignatura de Taller de Modelització. Els membres de l'equip són:_
+_Aquest projecte ha estat desenvolupat per estudiants de segon curs del grau de Matemàtiques de la Universitat Autònoma de Barcelona (UAB) per a l'assignatura de Taller de Modelització. Els membres de l'equip són:_
 
 * **Anna Canals** - [1563553]
 * **Laura Casadesús** - [1565262]
